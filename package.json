@@ -21,6 +21,7 @@
   },
   "homepage": "https://RHK-MICROVERSE.github.io/To-Do-List",
   "devDependencies": {
+    "@jest/globals": "^29.5.0",
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
     "eslint": "^7.32.0",
